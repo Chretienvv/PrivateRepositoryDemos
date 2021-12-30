@@ -1,5 +1,6 @@
 This public repository demo's the project that are in my private repository for security reasons. This is my way of showing you the work I made.
 Currently I am working on a new portfolio website. This is a temporary way of showing you my work. 
+For most Aegon projects it shows you parts of the AWS architecture. I was the Frontend developer for Matroesjka, Racetrack and Developer portal.
 
 What you will find in this repository:
 
@@ -42,4 +43,6 @@ What you will find in this repository:
     A website for RTE's and scrummasters to insert their sprint data in a central place.
     Techniques: HTML, CSS, JavaScript, Python, AWS
 
-
+### Developer portal
+    A website for the developers in Aegon to see specific Aegon rules in AWS.
+    Techniques: HTML, CSS, JavaScript, Python, AWS
